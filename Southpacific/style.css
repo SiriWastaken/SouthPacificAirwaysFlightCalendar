@@ -1,0 +1,12 @@
+.label {
+  height: 43px;
+  width: 223px;
+}
+
+.label .southpacific {
+  height: 34px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 221px;
+}
