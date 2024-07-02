@@ -1,0 +1,143 @@
+.box {
+  height: 157px;
+  position: relative;
+  width: 636px;
+}
+
+.box .group {
+  height: 157px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 648px;
+}
+
+.box .groups {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 27px;
+}
+
+.box .travel {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 129px;
+  width: 27px;
+}
+
+.box .text-wrapper {
+  color: #363636;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .div {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-2 {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-3 {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-4 {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-5 {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.box .flight-takeoff {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 27px;
+}
+
+.box .overlap-group-wrapper {
+  height: 51px;
+  left: 469px;
+  position: absolute;
+  top: 51px;
+  width: 169px;
+}
+
+.box .overlap-group {
+  background: linear-gradient(180deg, rgb(21, 153, 234) 0%, rgb(0, 100, 244) 100%);
+  border-radius: 7px;
+  height: 51px;
+  position: relative;
+  width: 167px;
+}
+
+.box .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}

@@ -1,0 +1,12 @@
+.box {
+  height: 14px;
+  width: 27px;
+}
+
+.box .groups {
+  height: 14px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 27px;
+}

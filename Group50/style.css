@@ -1,0 +1,33 @@
+.box {
+  height: 51px;
+  width: 167px;
+}
+
+.box .group {
+  height: 51px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 169px;
+}
+
+.box .overlap-group {
+  background: linear-gradient(180deg, rgb(21, 153, 234) 0%, rgb(0, 100, 244) 100%);
+  border-radius: 7px;
+  height: 51px;
+  position: relative;
+  width: 167px;
+}
+
+.box .text-wrapper {
+  color: #ffffff;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}

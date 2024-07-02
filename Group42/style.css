@@ -1,0 +1,37 @@
+.box {
+  height: 43px;
+  position: relative;
+  width: 175px;
+}
+
+.box .group {
+  height: 43px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 179px;
+}
+
+.box .text-wrapper {
+  color: #363636;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .div {
+  color: #363636;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}

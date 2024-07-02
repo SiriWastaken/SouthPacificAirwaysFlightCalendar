@@ -1,0 +1,84 @@
+.box {
+  height: 219px;
+  position: relative;
+  width: 282px;
+}
+
+.box .group {
+  height: 219px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 282px;
+}
+
+.box .div {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 282px;
+}
+
+.box .img {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.box .text-wrapper {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(21, 153, 234) 0%, rgb(0, 100, 244) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.box .group-2 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 222px;
+}
+
+.box .text-wrapper-2 {
+  color: #363636;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.box .group-3 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 189px;
+}
+
+.box .group-4 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 284px;
+}

@@ -1,0 +1,51 @@
+.box {
+  height: 49px;
+  position: relative;
+  width: 636px;
+}
+
+.box .group {
+  height: 49px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 642px;
+}
+
+.box .text-wrapper {
+  color: #363636;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .div {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-2 {
+  color: #414141;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}

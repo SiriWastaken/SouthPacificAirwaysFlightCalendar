@@ -1,0 +1,39 @@
+.box {
+  height: 38px;
+  position: relative;
+  width: 280px;
+}
+
+.box .group {
+  height: 38px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 282px;
+}
+
+.box .today {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.box .text-wrapper {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(21, 153, 234) 0%, rgb(0, 100, 244) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 25px;
+  font-weight: 600;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 4px;
+  white-space: nowrap;
+}
