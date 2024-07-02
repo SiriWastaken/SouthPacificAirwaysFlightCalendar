@@ -1,0 +1,12 @@
+.box {
+  height: 70px;
+  width: 70px;
+}
+
+.box .arrow-back-ios {
+  height: 70px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 70px;
+}

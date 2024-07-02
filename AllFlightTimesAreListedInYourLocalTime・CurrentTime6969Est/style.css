@@ -1,0 +1,29 @@
+.label {
+  height: 37px;
+  width: 1049px;
+}
+
+.label .all-flight-times-are {
+  color: #000000;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 0;
+}
+
+.label .text-wrapper {
+  color: #000000;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.label .span {
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+}

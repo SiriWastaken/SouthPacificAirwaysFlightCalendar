@@ -1,0 +1,12 @@
+.box {
+  height: 27px;
+  width: 27px;
+}
+
+.box .bounding-box {
+  height: 27px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 27px;
+}

@@ -1,0 +1,12 @@
+.box {
+  height: 38px;
+  width: 38px;
+}
+
+.box .face {
+  height: 38px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 38px;
+}

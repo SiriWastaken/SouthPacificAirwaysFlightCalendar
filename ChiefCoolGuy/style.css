@@ -1,0 +1,17 @@
+.label {
+  height: 18px;
+  width: 111px;
+}
+
+.label .text-wrapper {
+  color: #363636;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 0;
+  white-space: nowrap;
+}
